@@ -1,0 +1,73 @@
+
+.header ul li{
+  display: inline-block;
+  line-height: 400%;
+  font-size: 1.4em;
+  font-weight: 800;
+  font-family: 'Lato', sans-serif;
+  color: #00a4ec;
+  padding: 0 10px;
+  position: relative;
+  text-transform: uppercase;
+}
+
+.header ul li:hover{
+  background-color: gold;
+}
+
+.background{
+  background: url(http://www.dragonballsuperofficial.com/wp-content/themes/DB_Super/img/homepage/bkgd.jpg) no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+}
+
+.background img{
+  position: center;
+  height: auto;
+  width: 30%;
+}
+
+.position img{
+  position: center;
+  height: auto;
+  width: 50%;
+}
+
+.bgd{
+  background: url(http://www.dragonballsuperofficial.com/wp-content/themes/DB_Super/img/about/bkgd.jpg) no-repeat center center;
+  background-size: cover;
+  text-align: center;
+  height: auto;
+}
+.bgd table, p, h1{
+  color: white;
+}
+table {
+    margin: 20px auto;
+}
+td:hover{
+  background: white;
+  color:black;
+}
+thead th {
+  background: #88CCF1;
+  color: #FFF;
+  font-family: 'Lato', sans-serif;
+  font-size: 16px;
+  font-weight: 150;
+  letter-spacing: 8px;
+  text-transform: uppercase;
+}
+
+th, td {
+  font-family: 'Lato', sans-serif;
+  padding: 20px;
+  text-align: center;
+}
+
+p{
+  font-size: 1.4em;
+  font-weight: 500;
+  font-family: 'Lato', sans-serif;
+}
